@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Ashanime](ashanime.vercel.app)
 
-- 🌱 I’m currently learning **React, Firebase, Framer motion**
+- 🌱 I’m currently learning **React, TypeScript, Firebase, Framer motion**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ahmedalashhab](https://github.com/ahmedalashhab)
 
