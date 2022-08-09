@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **ahmedalashhab@gmail.com**
 
-- 📄 Know about my experiences [https://1drv.ms/w/s!AjvZrJ22NocmgYJOlZ6BbHzCE1PFsQ?e=SNpkQT](https://1drv.ms/w/s!AjvZrJ22NocmgYJOlZ6BbHzCE1PFsQ?e=SNpkQT)
-
 - ⚡ Fun fact **I also enjoy composing music with my Piano and Guitar.**
 
 <h3 align="left">Connect with me:</h3>
