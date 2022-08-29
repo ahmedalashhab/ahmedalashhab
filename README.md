@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedalashhab" alt="ahmedalashhab" /></a> </p>
 
+- I am currently working on [https://github.com/Ashanime/Ashanime-App](https://github.com/Ashanime/Ashanime-App)
+
 - 🌱 I’m currently learning **React, TypeScript, Firebase, Framer motion**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ahmedalashhab](https://github.com/ahmedalashhab)
