@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Al Ashhab</h1>
 <h3 align="center">A dedicated junior front-end developer who loves making things work.</h3>
-![](https://komarev.com/ghpvc/?username=ahmedalashhab)
+![](https://komarev.com/ghpvc/?username=ahmedalashhab&color=blueviolet)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedalashhab" alt="ahmedalashhab" /></a> </p>
 
