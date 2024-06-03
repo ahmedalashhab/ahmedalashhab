@@ -4,7 +4,7 @@
 
 - I am currently working on [Ashanime](https://github.com/Ashanime/Ashanime-Web-App)
 
-- 🌱 I’m currently learning **React, TypeScript, Firebase, Framer motion**
+- 🌱 I’m currently using **React, TypeScript, Firebase, Framer motion**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ahmedalashhab](https://github.com/ahmedalashhab)
 
