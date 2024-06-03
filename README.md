@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Al Ashhab</h1>
-<h3 align="center">A dedicated junior front-end developer who loves making things work.</h3>
+<h3 align="center">A front-end developer who loves making things work.</h3>
 <img src="https://komarev.com/ghpvc/?username=ahmedalashhab&color=blueviolet"/>
 
 - I am currently working on [Ashanime](https://github.com/Ashanime/Ashanime-Web-App)
